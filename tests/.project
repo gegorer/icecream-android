@@ -3,7 +3,7 @@
 	<name>tests</name>
 	<comment></comment>
 	<projects>
-		<project>MainActivity</project>
+		<project>Icecream</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
